@@ -1,0 +1,5 @@
+{
+  "name": "Estilista de Imagens Gemini",
+  "description": "Uma aplicação para que os usuários usem prompts de texto para editar e compor imagens usando o modelo Gemini 2.5 Flash Image. Os usuários podem fazer upload de múltiplas fotos, definir seus papéis, gerar um prompt criativo com IA e criar uma nova imagem estilizada.",
+  "requestFramePermissions": []
+}
